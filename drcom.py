@@ -1,4 +1,3 @@
-#!/extdisks/sda4/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 import socket, struct, time
 from hashlib import md5
